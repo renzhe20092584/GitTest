@@ -1,4 +1,4 @@
-
+ewfwef
 var HelloWorldLayer = cc.Layer.extend({
     isMouseDown:false,
     helloImg:null,
